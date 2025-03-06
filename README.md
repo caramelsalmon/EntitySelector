@@ -1,6 +1,7 @@
 # EntitySelector
 實體資料模型清單選擇器,傳入任何類型實體清單,返回選擇的實體.
-此範例使用EF6.
+
+範例使用微軟EF6(實體資料模型)及[ObjectListView第三方套件](https://objectlistview.sourceforge.net/cs/index.html)(用於呈現清單)
 
 使用方法:
 
